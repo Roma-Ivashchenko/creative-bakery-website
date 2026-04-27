@@ -2,7 +2,7 @@
 
 Creative Bakery is a modern, responsive landing page for a pastry workshop. This project demonstrates proficiency in coding complex layouts, using BEM methodology, and optimizing web page performance.
 
-## [Live Preview]()
+## [Live Preview](https://roma-ivashchenko.github.io/creative-bakery-website/)
 
 ## Design Reference
 
@@ -27,8 +27,8 @@ Creative Bakery is a modern, responsive landing page for a pastry workshop. This
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
 ```bash
+1. Clone the repository:
 git clone [https://github.com/Roma-Ivashchenko/creative-bakery-website.git](https://github.com/Roma-Ivashchenko/creative-bakery-website.git)
 
 2. Navigate to the project directory:
